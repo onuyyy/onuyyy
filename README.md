@@ -17,7 +17,7 @@ ___
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|-----------|------|
-| Co's House | 오늘의 집 벤치마킹 | Java, Spring Boot, Spring Security, Spring JPA, MySQL, Docker, Tymeleaf, Querydsl | [Repo](https://github.com/KernelSevenBird/Co-s_House) |
+| Co's House | 오늘의 집 벤치마킹 | Aws, Java, Spring Boot, Spring Security, Spring JPA, MySQL, Docker, Tymeleaf, Querydsl | [Repo](https://github.com/KernelSevenBird/Co-s_House) |
 | DevTogether | 코드 스니펫을 공유 플랫폼 | Java, Spring Boot, Spring Security, Svelte, Docker | [Repo](https://github.com/FC-DevTogether/DevTogether) |
 
 ___
