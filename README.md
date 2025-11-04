@@ -17,7 +17,7 @@ ___
 
 | Project | Description | Tech Stack | Repo | Link |
 |-----------|-------------|-----------|------|------|
-| Co's House | 오늘의 집 벤치마킹 | Aws, Java, Spring Boot, Spring Security, Spring JPA, MySQL, Docker, Tymeleaf, Querydsl | [Repo](https://github.com/KernelSevenBird/Co-s_House) | http://chouse.o-r.kr |
+| Co's House | 오늘의 집 벤치마킹 | Aws, Java, Spring Boot, Spring Security, Spring JPA, MySQL, Docker, Tymeleaf, Querydsl | [Repo](https://github.com/onuyyy/Co-s_House) | http://chouse.o-r.kr |
 | DevTogether | 코드 스니펫을 공유 플랫폼 | Java, Spring Boot, Spring Security, Svelte, Docker | [Repo](https://github.com/FC-DevTogether/DevTogether) |  |
 | 노인행정도우미 | 공공데이터를 이용한 노인들만을 위한 행정 도우미 챗봇 | Java, Spring Boot, Tymeleaf, Python, LangChain, LangGraph, LangSmith | [Repo] |  |
 ___
