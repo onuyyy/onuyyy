@@ -18,7 +18,7 @@ ___
 | Project | Description | Tech Stack | Repo | Link |
 |-----------|-------------|-----------|------|------|
 | Co's House | 오늘의 집 벤치마킹 | Aws, Github Actions, Java, Spring Boot, Spring Security, Spring JPA, MySQL, Docker, Tymeleaf, Querydsl | [Repo](https://github.com/onuyyy/Co-s_House) | http://chouse.o-r.kr |
-| 노인행정도우미 AI | 공공데이터를 이용한 노인들만을 위한 행정 도우미 챗봇 | Python, LangChain, LangGraph, LangSmith, React, TypeScript | [Repo](https://github.com/onuyyy/welfare-ai) |  |
+| 노인행정도우미 AI | 공공데이터를 이용한 노인들만을 위한 행정 도우미 챗봇 | Aws, Python, LangChain, LangGraph, LangSmith, React, TypeScript | [Repo](https://github.com/onuyyy/welfare-ai) |  |
 | DevTogether | 코드 스니펫을 공유 플랫폼 | Java, Spring Boot, Spring Security, Svelte, Docker | [Repo](https://github.com/onuyyy/DevTogether) |  |
 ___
 
