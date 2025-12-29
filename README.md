@@ -17,7 +17,7 @@ ___
 
 | Project | Description | Tech Stack | Repo | Link |
 |-----------|-------------|-----------|------|------|
-| WorkHub | 웹에이전시의 B2B 프로젝트 관리 시스템 | Java, Spring Boot, Spring Security, Spring JPA, PostgreSQL, Docker, Querydsl, React, TypeScript, Aws, Github Actions | [Repo](https://github.com/onuyyy/WorkHub-Server) |  |
+| WorkHub | 웹에이전시의 B2B 프로젝트 관리 시스템 | Java, Spring Boot, Spring Security, Spring JPA, PostgreSQL, Docker, Querydsl, React, TypeScript, Aws, Github Actions | [Repo](https://github.com/onuyyy/WorkHub-Server) | https://work-hub-fe.vercel.app/ |
 | Co's House | 오늘의 집 벤치마킹 | Java, Spring Boot, Spring Security, Spring JPA, MySQL, Docker, Tymeleaf, Querydsl, Aws, Github Actions | [Repo](https://github.com/onuyyy/Co-s_House) | http://chouse.o-r.kr |
 | 노인행정도우미 AI | 공공데이터를 이용한 노인들만을 위한 행정 도우미 챗봇 | Aws, Python, LangChain, LangGraph, LangSmith, React, TypeScript | [Repo](https://github.com/onuyyy/welfare-ai) |  |
 | DevTogether | 코드 스니펫을 공유 플랫폼 | Java, Spring Boot, Spring Security, Svelte, Docker | [Repo](https://github.com/onuyyy/DevTogether) |  |
